@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My key is {process.env.MY_KEY}
+          My key is {process.env.REACT_APP_MY_KEY}
         </a>
       </header>
     </div>
