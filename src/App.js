@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Netlify
+          Token {process.env.MY_TOKEN}
         </a>
       </header>
     </div>
