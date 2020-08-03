@@ -12,9 +12,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "prebuild" : "echo $MY_TOKEN",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "prebuild":"echo $MY_TOKEN",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
